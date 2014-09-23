@@ -1,0 +1,14 @@
+*.[oa]
+*~
+*.so
+*.bak
+*-orig
+*-sav
+foo*
+goo*
+Makefile
+conf.h
+config.status
+config.cache
+TODO
+BUGS
