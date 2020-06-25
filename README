@@ -1,3 +1,18 @@
-This repository contains the data files used by JS9 demo pages.
+This data files used by JS9 demo pages are available at:
 
-See https://js9.si.edu or https://github.com/ericmandel/js9.
+    https://js9.si.edu/downloads/js9-data.tgz
+
+The data tar file is 863.8Mb in size and uncompresses to a data directory
+containing the following sub-directories:
+
+    blend	cmaps	kes75	m13	png ses
+    casa	fits	large	orion	reproj	tests
+
+To use, simply untar into the js9 source or install directory:
+
+    cd js9
+    tar xfz js9-data.tar.gz
+
+
+
+
